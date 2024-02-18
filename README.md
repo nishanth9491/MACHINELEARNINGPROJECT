@@ -26,3 +26,6 @@ Once satisfied with a model, deploy it for use in your applications to identify 
 
 Contributing
 Feel free to contribute to this project by opening issues, proposing enhancements, or submitting pull requests. Your feedback and collaboration are highly valued.
+Made with honey by Nishanth
+For any queries
+https://nishanthreddy.vercel.app
